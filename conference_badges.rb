@@ -27,7 +27,6 @@ def printer(names)
   puts assign_rooms(names)
 end
 
-printer(names)
 #Now you have to tell the printer what to print.
 #Create a method called printer that will output first the results of the batch_badge_creator method
 #and then of the assign_rooms method to the screen.
