@@ -24,8 +24,9 @@ end
 
 def printer(names)
   puts batch_badge_creator(names).each do |item|
+    puts item
   end
-    
+
 end
 
 #Now you have to tell the printer what to print.
