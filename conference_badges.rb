@@ -21,3 +21,6 @@ names.each do |name|
 end
 return newArray
 end
+
+def printer()
+  
