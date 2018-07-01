@@ -22,7 +22,7 @@ end
 return newArray
 end
 
-def printer
+def printer(names)
   puts batch_badge_creator(names)
   puts assign_rooms(names)
 end
