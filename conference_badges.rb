@@ -27,7 +27,6 @@ def printer(names)
   names.each do |name|
     puts "Hello, my name is #{name}."
   end
-  return newArray
 
 
 end
