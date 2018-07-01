@@ -23,7 +23,8 @@ return newArray
 end
 
 def printer(names)
-  puts batch_badge_creator(names).each
+  puts batch_badge_creator(names).each do |item|
+    puts item
   puts assign_rooms(names)
 end
 
