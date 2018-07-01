@@ -22,7 +22,7 @@ end
 return newArray
 end
 
-def printer(names, rooms)
+def printer(names)
 
 
 
